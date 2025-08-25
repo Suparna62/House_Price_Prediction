@@ -5,7 +5,8 @@ This project predicts house prices using machine learning based on features such
 
 ## Features
 - Train a machine learning model on historical house price data.  
-- Predict prices for new houses based on input features.  
+- Predict house prices based on input features like area, bedrooms, and bathrooms.
+- Show sample predictions (e.g., for a 2000 sq. ft. house, the predicted price is 110.5 Lakhs).  
 - Easy-to-use Python implementation with clear visualizations.  
 
 ## Dataset
