@@ -34,4 +34,11 @@ Sample data:
 - **Scikit-learn** – Machine learning algorithms  
 - **Matplotlib** – Data visualization  
 - **Seaborn** – Advanced data visualization  
+## Output
+## Visualization
+
+Here is the scatter plot showing Area vs Price:
+
+![House Area vs Price](<img width="1536" height="754" alt="Figure_1" src="https://github.com/user-attachments/assets/c4add34e-f084-4506-9b22-695862f047be" />
+)
 
