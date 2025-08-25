@@ -1,4 +1,4 @@
-# House Price Prediction AI/ML Project
+# House Price Prediction Project
 
 ## Overview
 This project predicts house prices using machine learning based on features such as area, number of bedrooms, bathrooms, age of the house, and parking availability. The model is trained on house price data to estimate prices for new properties.
