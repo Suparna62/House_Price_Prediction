@@ -28,7 +28,7 @@ Sample data:
 | 2000 | 4        | 3         | 7   | 2       | 120   |
 
 ## Tools
-- **Python 3.x** – Programming language  
+- **Python** – Programming language  
 - **Pandas** – Data manipulation and analysis  
 - **NumPy** – Numerical computing  
 - **Scikit-learn** – Machine learning algorithms  
